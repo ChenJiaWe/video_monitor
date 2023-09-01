@@ -1,0 +1,310 @@
+[01/Aug/2023:03:15:45 +0000] boa.c:213 - unable to bind: Permission denied
+[01/Aug/2023:03:16:43 +0000] boa.c:213 - unable to bind: Permission denied
+[01/Aug/2023:03:17:26 +0000] boa.c:213 - unable to bind: Permission denied
+[01/Aug/2023:03:18:52 +0000] boa.c:213 - unable to bind: Permission denied
+[01/Aug/2023:03:20:41 +0000] boa.c:213 - unable to bind: Permission denied
+[01/Aug/2023:03:21:19 +0000] boa.c:213 - unable to bind: Permission denied
+[01/Aug/2023:03:22:43 +0000] boa.c:213 - unable to bind: Cannot assign requested address
+[01/Aug/2023:03:25:16 +0000] boa.c:213 - unable to bind: Cannot assign requested address
+[01/Aug/2023:03:25:25 +0000] boa: server version Boa/0.94.13
+[01/Aug/2023:03:25:25 +0000] boa: server built Aug  1 2023 at 11:15:02.
+[01/Aug/2023:03:25:25 +0000] boa: starting server pid=22340, port 80
+[01/Aug/2023:03:25:59 +0000] request from 127.0.0.1 "GET /favicon.ico HTTP/1.1" ("/home/chenjiawen/ARM/boa-serve/www/favicon.ico"): document open: No such file or directory
+[01/Aug/2023:03:26:04 +0000] cgi_header: unable to find LFLF
+[01/Aug/2023:03:26:08 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:00:08:29 +0000] boa: server version Boa/0.94.13
+[01/Jan/1970:00:08:29 +0000] boa: server built Aug  1 2023 at 11:47:51.
+[01/Jan/1970:00:08:29 +0000] boa: starting server pid=182, port 80
+[01/Jan/1970:00:09:02 +0000] request from 192.168.101.100 "GET /favicon.ico HTTP/1.1" ("/boa-serve/www/favicon.ico"): document open: No such file or directory
+[01/Jan/1970:01:58:53 +0000] caught SIGTERM, starting shutdown
+[01/Jan/1970:01:58:53 +0000] exiting Boa normally (uptime 6624 seconds)
+[01/Jan/1970:02:44:48 +0000] boa: server version Boa/0.94.13
+[01/Jan/1970:02:44:48 +0000] boa: server built Aug  1 2023 at 11:47:51.
+[01/Jan/1970:02:44:48 +0000] boa: starting server pid=221, port 80
+[01/Jan/1970:02:45:20 +0000] request from 192.168.101.106 "GET /favicon.ico HTTP/1.1" ("/boa-serve/www/favicon.ico"): document open: No such file or directory
+[01/Jan/1970:02:46:29 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:03:01:52 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:03:03:30 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:03:03:30 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:03:04:35 +0000] request from 192.168.101.106 "GET /layout.css HTTP/1.1" ("/boa-serve/www/layout.css"): document open: No such file or directory
+[01/Jan/1970:03:16:18 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:03:16:29 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:03:20:12 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:03:20:22 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:03:23:48 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:03:31:37 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:03:40:17 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:03:44:09 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:03:48:59 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:03:50:22 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:03:56:49 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:04:00:03 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:04:02:29 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:04:03:32 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:04:05:00 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:04:05:05 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:04:06:44 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:04:07:26 +0000] request from 192.168.101.106 "GET /layout.css HTTP/1.1" ("/boa-serve/www/layout.css"): document open: No such file or directory
+[01/Jan/1970:04:07:39 +0000] request from 192.168.101.106 "GET /home2.html HTTP/1.1" ("/boa-serve/www/home2.html"): document open: No such file or directory
+[01/Jan/1970:04:07:42 +0000] request from 192.168.101.106 "GET /layout.css HTTP/1.1" ("/boa-serve/www/layout.css"): document open: No such file or directory
+[01/Jan/1970:04:22:24 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:04:23:47 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:04:28:18 +0000] request from 192.168.101.106 "GET /layout.css HTTP/1.1" ("/boa-serve/www/layout.css"): document open: No such file or directory
+[01/Jan/1970:04:43:32 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:04:44:34 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:04:44:44 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:05:05:36 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:05:05:46 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:05:10:39 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:05:10:49 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:05:13:03 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:05:13:07 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:05:14:23 +0000] request from 192.168.101.106 "POST /cgi-bin/a9_beep.cgi HTTP/1.1" ("/boa-serve/cgi-bin/a9_beep.cgi"): connection timed out
+[01/Jan/1970:05:14:33 +0000] request from 192.168.101.106 "POST /cgi-bin/a9_beep.cgi HTTP/1.1" ("/boa-serve/cgi-bin/a9_beep.cgi"): connection timed out
+[01/Jan/1970:05:14:43 +0000] request from 192.168.101.106 "POST /cgi-bin/a9_beep.cgi HTTP/1.1" ("/boa-serve/cgi-bin/a9_beep.cgi"): connection timed out
+[01/Jan/1970:05:14:53 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:05:14:53 +0000] request from 192.168.101.106 "POST /cgi-bin/a9_beep.cgi HTTP/1.1" ("/boa-serve/cgi-bin/a9_beep.cgi"): connection timed out
+[01/Jan/1970:05:15:55 +0000] request from 192.168.101.106 "POST /cgi-bin/a9_beep.cgi HTTP/1.1" ("/boa-serve/cgi-bin/a9_beep.cgi"): connection timed out
+[01/Jan/1970:05:16:15 +0000] request from 192.168.101.106 "POST /cgi-bin/a9_beep.cgi HTTP/1.1" ("/boa-serve/cgi-bin/a9_beep.cgi"): connection timed out
+[01/Jan/1970:05:16:15 +0000] request from 192.168.101.106 "POST /cgi-bin/a9_beep.cgi HTTP/1.1" ("/boa-serve/cgi-bin/a9_beep.cgi"): connection timed out
+[01/Jan/1970:05:16:15 +0000] request from 192.168.101.106 "POST /cgi-bin/a9_beep.cgi HTTP/1.1" ("/boa-serve/cgi-bin/a9_beep.cgi"): connection timed out
+[01/Jan/1970:05:16:25 +0000] request from 192.168.101.106 "POST /cgi-bin/a9_beep.cgi HTTP/1.1" ("/boa-serve/cgi-bin/a9_beep.cgi"): connection timed out
+[01/Jan/1970:05:16:25 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:05:17:27 +0000] request from 192.168.101.106 "POST /cgi-bin/a9_beep.cgi HTTP/1.1" ("/boa-serve/cgi-bin/a9_beep.cgi"): connection timed out
+[01/Jan/1970:05:18:17 +0000] request from 192.168.101.106 "POST /cgi-bin/a9_beep.cgi HTTP/1.1" ("/boa-serve/cgi-bin/a9_beep.cgi"): connection timed out
+[01/Jan/1970:05:18:27 +0000] request from 192.168.101.106 "POST /cgi-bin/a9_beep.cgi HTTP/1.1" ("/boa-serve/cgi-bin/a9_beep.cgi"): connection timed out
+[01/Jan/1970:05:18:27 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:05:19:35 +0000] request from 192.168.101.106 "POST /cgi-bin/a9_beep.cgi HTTP/1.1" ("/boa-serve/cgi-bin/a9_beep.cgi"): connection timed out
+[01/Jan/1970:05:19:55 +0000] request from 192.168.101.106 "POST /cgi-bin/a9_beep.cgi HTTP/1.1" ("/boa-serve/cgi-bin/a9_beep.cgi"): connection timed out
+[01/Jan/1970:05:19:55 +0000] request from 192.168.101.106 "POST /cgi-bin/a9_beep.cgi HTTP/1.1" ("/boa-serve/cgi-bin/a9_beep.cgi"): connection timed out
+[01/Jan/1970:05:20:05 +0000] request from 192.168.101.106 "POST /cgi-bin/a9_beep.cgi HTTP/1.1" ("/boa-serve/cgi-bin/a9_beep.cgi"): connection timed out
+[01/Jan/1970:05:20:05 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:05:21:15 +0000] request from 192.168.101.106 "POST /cgi-bin/a9_beep.cgi HTTP/1.1" ("/boa-serve/cgi-bin/a9_beep.cgi"): connection timed out
+[01/Jan/1970:05:24:10 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:05:24:30 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:05:27:26 +0000] request from 192.168.101.106 "GET /layout.css HTTP/1.1" ("/boa-serve/www/layout.css"): document open: No such file or directory
+[01/Jan/1970:05:27:29 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:05:28:34 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:05:37:08 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:05:53:09 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:05:54:39 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:05:55:01 +0000] request from 192.168.101.106 "GET /a9_zigbee49.html HTTP/1.1" ("/boa-serve/www/a9_zigbee49.html"): document open: No such file or directory
+[01/Jan/1970:05:55:16 +0000] request from 192.168.101.106 "GET /a9_zigbee49.html HTTP/1.1" ("/boa-serve/www/a9_zigbee49.html"): document open: No such file or directory
+[01/Jan/1970:05:56:35 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:05:56:45 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:05:57:13 +0000] request from 192.168.101.106 "GET /layout.css HTTP/1.1" ("/boa-serve/www/layout.css"): document open: No such file or directory
+[01/Jan/1970:03:59:29 +0000] boa: server version Boa/0.94.13
+[01/Jan/1970:03:59:29 +0000] boa: server built Aug  1 2023 at 11:47:51.
+[01/Jan/1970:03:59:29 +0000] boa: starting server pid=272, port 80
+[01/Jan/1970:03:59:32 +0000] request from 192.168.101.106 "GET /layout.css HTTP/1.1" ("/boa-serve/www/layout.css"): document open: No such file or directory
+[01/Jan/1970:03:59:35 +0000] request from 192.168.101.106 "GET /layout.css HTTP/1.1" ("/boa-serve/www/layout.css"): document open: No such file or directory
+[01/Jan/1970:03:59:37 +0000] request from 192.168.101.106 "GET /layout.css HTTP/1.1" ("/boa-serve/www/layout.css"): document open: No such file or directory
+[01/Jan/1970:03:59:41 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:04:00:05 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:04:09:50 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:04:09:52 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:04:10:55 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:04:10:59 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:04:20:25 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:04:33:49 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:04:33:54 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:04:34:00 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:04:34:42 +0000] request from 192.168.101.106 "GET /a9_zigbee0.html HTTP/1.1" ("/boa-serve/www/a9_zigbee0.html"): document open: No such file or directory
+[01/Jan/1970:04:35:21 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:04:35:32 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:04:36:07 +0000] request from 192.168.101.106 "GET /a9_zigbee49.html HTTP/1.1" ("/boa-serve/www/a9_zigbee49.html"): document open: No such file or directory
+[01/Jan/1970:04:36:31 +0000] request from 192.168.101.106 "GET /a9_zigbee49.html HTTP/1.1" ("/boa-serve/www/a9_zigbee49.html"): document open: No such file or directory
+[01/Jan/1970:04:37:32 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:04:37:37 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:04:37:37 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:04:38:18 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:04:38:40 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:04:38:45 +0000] request from 192.168.101.106 "GET /a9_zigbee49.html HTTP/1.1" ("/boa-serve/www/a9_zigbee49.html"): document open: No such file or directory
+[01/Jan/1970:04:39:14 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:04:39:22 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:04:40:23 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:04:40:33 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:04:41:09 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:04:41:12 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:04:41:38 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:04:41:58 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:04:42:15 +0000] request from 192.168.101.106 "GET /a9_zigbee49.html HTTP/1.1" ("/boa-serve/www/a9_zigbee49.html"): document open: No such file or directory
+[01/Jan/1970:04:42:20 +0000] request from 192.168.101.106 "GET /a9_zigbee49.html HTTP/1.1" ("/boa-serve/www/a9_zigbee49.html"): document open: No such file or directory
+[01/Jan/1970:05:13:42 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:05:13:44 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:05:23:21 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:05:23:21 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:05:27:08 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:06:23:21 +0000] request from 192.168.101.106 "GET /layout.css HTTP/1.1" ("/boa-serve/www/layout.css"): document open: No such file or directory
+[01/Jan/1970:07:20:10 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:07:20:20 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:07:23:08 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:07:26:00 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:07:27:29 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:07:27:29 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:07:40:18 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:07:40:28 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:09:38:31 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:09:38:34 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:09:39:39 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:09:39:49 +0000] request from 192.168.101.106 "(null)" ("(null)"): connection timed out
+[01/Jan/1970:00:01:59 +0000] boa: server version Boa/0.94.13
+[01/Jan/1970:00:01:59 +0000] boa: server built Aug  1 2023 at 11:47:51.
+[01/Jan/1970:00:01:59 +0000] boa: starting server pid=176, port 80
+[01/Jan/1970:00:02:11 +0000] request from 192.168.101.106 "GET /layout.css HTTP/1.1" ("/boa-serve/www/layout.css"): document open: No such file or directory
+[01/Jan/1970:00:46:50 +0000] boa: server version Boa/0.94.13
+[01/Jan/1970:00:46:50 +0000] boa: server built Aug  1 2023 at 11:47:51.
+[01/Jan/1970:00:46:50 +0000] boa: starting server pid=183, port 80
+[01/Jan/1970:02:12:56 +0000] boa: server version Boa/0.94.13
+[01/Jan/1970:02:12:56 +0000] boa: server built Aug  1 2023 at 11:47:51.
+[01/Jan/1970:02:12:56 +0000] boa: starting server pid=237, port 80
+[01/Jan/1970:04:22:27 +0000] boa: server version Boa/0.94.13
+[01/Jan/1970:04:22:27 +0000] boa: server built Aug  1 2023 at 11:47:51.
+[01/Jan/1970:04:22:27 +0000] boa: starting server pid=432, port 80
+[01/Jan/1970:05:34:19 +0000] boa: server version Boa/0.94.13
+[01/Jan/1970:05:34:19 +0000] boa: server built Aug  1 2023 at 11:47:51.
+[01/Jan/1970:05:34:19 +0000] boa: starting server pid=2577, port 80
+[01/Jan/1970:05:46:42 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:05:46:43 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:00:00:32 +0000] boa: server version Boa/0.94.13
+[01/Jan/1970:00:00:32 +0000] boa: server built Aug  1 2023 at 11:47:51.
+[01/Jan/1970:00:00:32 +0000] boa: starting server pid=180, port 80
+[01/Jan/1970:00:00:52 +0000] boa.c:213 - unable to bind: Address already in use
+[01/Jan/1970:00:01:31 +0000] boa: server version Boa/0.94.13
+[01/Jan/1970:00:01:31 +0000] boa: server built Aug  1 2023 at 11:47:51.
+[01/Jan/1970:00:01:31 +0000] boa: starting server pid=189, port 80
+[01/Jan/1970:00:02:10 +0000] request from 192.168.101.100 "GET /layout.css HTTP/1.1" ("/boa-serve/www/layout.css"): document open: No such file or directory
+[01/Jan/1970:00:02:26 +0000] boa.c:213 - unable to bind: Address already in use
+[01/Jan/1970:00:09:16 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:00:09:55 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:00:10:18 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:00:13:37 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:00:16:53 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:00:40:55 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:00:41:11 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:00:47:03 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:00:47:44 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:00:48:49 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:00:48:59 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:00:52:29 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:00:52:41 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:00:53:27 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:00:53:28 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:00:53:33 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:00:53:34 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:00:53:35 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:00:53:35 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:00:53:36 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:00:53:37 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:00:53:37 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:00:54:13 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:00:54:14 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:00:56:10 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:00:56:26 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:00:56:57 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:00:58:01 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:00:59:34 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:01:01:19 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:01:01:28 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:01:01:50 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:01:02:21 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:01:04:28 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:01:05:02 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:01:09:48 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:01:11:47 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:01:13:28 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:01:15:05 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:01:17:24 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:01:39:48 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:01:43:19 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:01:43:41 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:02:38:39 +0000] boa: server version Boa/0.94.13
+[01/Jan/1970:02:38:39 +0000] boa: server built Aug  1 2023 at 11:47:51.
+[01/Jan/1970:02:38:39 +0000] boa: starting server pid=190, port 80
+[01/Jan/1970:02:39:37 +0000] request from 192.168.101.106 "GET /favicon.ico HTTP/1.1" ("/boa-serve/www/favicon.ico"): document open: No such file or directory
+[01/Jan/1970:02:39:54 +0000] cgi_header: unable to find LFLF
+[01/Jan/1970:02:40:19 +0000] request from 192.168.101.106 "GET /layout.css HTTP/1.1" ("/boa-serve/www/layout.css"): document open: No such file or directory
+[01/Jan/1970:02:43:15 +0000] request from 192.168.101.106 "GET /layout.css HTTP/1.1" ("/boa-serve/www/layout.css"): document open: No such file or directory
+[01/Jan/1970:02:43:26 +0000] request from 192.168.101.106 "GET /layout.css HTTP/1.1" ("/boa-serve/www/layout.css"): document open: No such file or directory
+[01/Jan/1970:02:43:41 +0000] request from 192.168.101.106 "GET /layout.css HTTP/1.1" ("/boa-serve/www/layout.css"): document open: No such file or directory
+[01/Jan/1970:02:43:47 +0000] request from 192.168.101.106 "GET /layout.css HTTP/1.1" ("/boa-serve/www/layout.css"): document open: No such file or directory
+[01/Sep/2023:03:20:11 +0000] boa: server version Boa/0.94.13
+[01/Sep/2023:03:20:11 +0000] boa: server built Aug  1 2023 at 11:47:51.
+[01/Sep/2023:03:20:11 +0000] boa: starting server pid=191, port 80
+[01/Sep/2023:03:23:05 +0000] request from 192.168.101.104 "GET /favicon.ico HTTP/1.1" ("/boa-serve/www/favicon.ico"): document open: No such file or directory
+[01/Sep/2023:03:30:19 +0000] request from 192.168.101.104 "GET /layout.css HTTP/1.1" ("/boa-serve/www/layout.css"): document open: No such file or directory
+[01/Sep/2023:03:30:27 +0000] request from 192.168.101.104 "GET /home2.html HTTP/1.1" ("/boa-serve/www/home2.html"): document open: No such file or directory
+[01/Sep/2023:03:30:30 +0000] request from 192.168.101.104 "GET /layout.css HTTP/1.1" ("/boa-serve/www/layout.css"): document open: No such file or directory
+[01/Sep/2023:03:31:08 +0000] request from 192.168.101.104 "GET /layout.css HTTP/1.1" ("/boa-serve/www/layout.css"): document open: No such file or directory
+[01/Sep/2023:03:31:25 +0000] request from 192.168.101.104 "GET /layout.css HTTP/1.1" ("/boa-serve/www/layout.css"): document open: No such file or directory
+[01/Sep/2023:03:31:36 +0000] request from 192.168.101.104 "GET /layout.css HTTP/1.1" ("/boa-serve/www/layout.css"): document open: No such file or directory
+[01/Sep/2023:03:31:46 +0000] request from 192.168.101.104 "GET /layout.css HTTP/1.1" ("/boa-serve/www/layout.css"): document open: No such file or directory
+[01/Sep/2023:03:32:30 +0000] request from 192.168.101.104 "GET /layout.css HTTP/1.1" ("/boa-serve/www/layout.css"): document open: No such file or directory
+[01/Sep/2023:03:32:35 +0000] request from 192.168.101.104 "GET /layout.css HTTP/1.1" ("/boa-serve/www/layout.css"): document open: No such file or directory
+[01/Sep/2023:03:33:59 +0000] request from 192.168.101.104 "(null)" ("(null)"): connection timed out
+[01/Sep/2023:03:34:42 +0000] request from 192.168.101.104 "GET /contrl.html HTTP/1.1" ("/boa-serve/www/contrl.html"): document open: No such file or directory
+[01/Sep/2023:03:34:45 +0000] request from 192.168.101.104 "GET /contrl.html HTTP/1.1" ("/boa-serve/www/contrl.html"): document open: No such file or directory
+[01/Sep/2023:03:35:16 +0000] request from 192.168.101.104 "GET /contrl.html HTTP/1.1" ("/boa-serve/www/contrl.html"): document open: No such file or directory
+[01/Sep/2023:03:35:17 +0000] request from 192.168.101.104 "GET /contrl.html HTTP/1.1" ("/boa-serve/www/contrl.html"): document open: No such file or directory
+[01/Sep/2023:03:35:17 +0000] request from 192.168.101.104 "GET /contrl.html HTTP/1.1" ("/boa-serve/www/contrl.html"): document open: No such file or directory
+[01/Sep/2023:03:35:36 +0000] request from 192.168.101.104 "GET /contrl.html HTTP/1.1" ("/boa-serve/www/contrl.html"): document open: No such file or directory
+[01/Sep/2023:03:36:23 +0000] request from 192.168.101.104 "(null)" ("(null)"): connection timed out
+[01/Sep/2023:03:37:33 +0000] request from 192.168.101.104 "(null)" ("(null)"): connection timed out
+[01/Sep/2023:03:38:00 +0000] request from 192.168.101.104 "GET /layout.css HTTP/1.1" ("/boa-serve/www/layout.css"): document open: No such file or directory
+[01/Sep/2023:03:41:04 +0000] request from 192.168.101.104 "(null)" ("(null)"): connection timed out
+[01/Sep/2023:03:42:26 +0000] request from 192.168.101.104 "(null)" ("(null)"): connection timed out
+[01/Sep/2023:05:24:32 +0000] request from 192.168.101.104 "GET /layout.css HTTP/1.1" ("/boa-serve/www/layout.css"): document open: No such file or directory
+[01/Sep/2023:05:24:36 +0000] cgi_header: unable to find LFLF
+[01/Sep/2023:05:24:42 +0000] request from 192.168.101.104 "GET /layout.css HTTP/1.1" ("/boa-serve/www/layout.css"): document open: No such file or directory
+[01/Sep/2023:05:24:56 +0000] cgi_header: unable to find LFLF
+[01/Sep/2023:05:25:06 +0000] cgi_header: unable to find LFLF
+[01/Sep/2023:05:25:08 +0000] cgi_header: unable to find LFLF
+[01/Sep/2023:05:25:27 +0000] cgi_header: unable to find LFLF
+[01/Sep/2023:05:25:40 +0000] cgi_header: unable to find LFLF
+[01/Sep/2023:05:25:57 +0000] cgi_header: unable to find LFLF
+[01/Sep/2023:05:26:19 +0000] request from 192.168.101.104 "GET /layout.css HTTP/1.1" ("/boa-serve/www/layout.css"): document open: No such file or directory
+[01/Sep/2023:05:27:36 +0000] request from 192.168.101.104 "GET /layout.css HTTP/1.1" ("/boa-serve/www/layout.css"): document open: No such file or directory
+[01/Sep/2023:05:27:49 +0000] request from 192.168.101.104 "GET /layout.css HTTP/1.1" ("/boa-serve/www/layout.css"): document open: No such file or directory
+[01/Sep/2023:05:28:09 +0000] request from 192.168.101.104 "GET /layout.css HTTP/1.1" ("/boa-serve/www/layout.css"): document open: No such file or directory
+[01/Sep/2023:05:28:16 +0000] request from 192.168.101.104 "GET /layout.css HTTP/1.1" ("/boa-serve/www/layout.css"): document open: No such file or directory
+[01/Sep/2023:05:29:18 +0000] request from 192.168.101.104 "(null)" ("(null)"): connection timed out
+[01/Sep/2023:05:29:18 +0000] request from 192.168.101.104 "(null)" ("(null)"): connection timed out
+[01/Sep/2023:05:29:44 +0000] cgi_header: unable to find LFLF
+[01/Sep/2023:05:30:39 +0000] request from 192.168.101.104 "GET /layout.css HTTP/1.1" ("/boa-serve/www/layout.css"): document open: No such file or directory
+[01/Sep/2023:05:31:57 +0000] request from 192.168.101.104 "(null)" ("(null)"): connection timed out
+[01/Sep/2023:05:33:38 +0000] request from 192.168.101.104 "(null)" ("(null)"): connection timed out
+[01/Sep/2023:05:33:38 +0000] request from 192.168.101.104 "(null)" ("(null)"): connection timed out
+[01/Sep/2023:05:39:32 +0000] request from 192.168.101.104 "(null)" ("(null)"): connection timed out
+[01/Sep/2023:05:39:42 +0000] request from 192.168.101.104 "(null)" ("(null)"): connection timed out
+[01/Sep/2023:05:47:46 +0000] request from 192.168.101.104 "GET /layout.css HTTP/1.1" ("/boa-serve/www/layout.css"): document open: No such file or directory
+[01/Sep/2023:05:47:51 +0000] cgi_header: unable to find LFLF
+[01/Sep/2023:05:48:00 +0000] cgi_header: unable to find LFLF
+[01/Sep/2023:05:48:55 +0000] request from 192.168.101.104 "(null)" ("(null)"): connection timed out
+[01/Sep/2023:05:48:55 +0000] cgi_header: unable to find LFLF
+[01/Sep/2023:05:49:26 +0000] cgi_header: unable to find LFLF
+[01/Sep/2023:05:50:07 +0000] request from 192.168.101.104 "(null)" ("(null)"): connection timed out
+[01/Sep/2023:05:50:37 +0000] request from 192.168.101.104 "(null)" ("(null)"): connection timed out
+[01/Sep/2023:05:51:45 +0000] request from 192.168.101.104 "(null)" ("(null)"): connection timed out
+[01/Sep/2023:05:51:55 +0000] request from 192.168.101.104 "(null)" ("(null)"): connection timed out
+[01/Sep/2023:05:53:14 +0000] request from 192.168.101.104 "(null)" ("(null)"): connection timed out
+[01/Sep/2023:05:53:14 +0000] request from 192.168.101.104 "(null)" ("(null)"): connection timed out
+[01/Sep/2023:05:53:40 +0000] request from 192.168.101.104 "GET /layout.css HTTP/1.1" ("/boa-serve/www/layout.css"): document open: No such file or directory
+[01/Sep/2023:05:55:09 +0000] request from 192.168.101.104 "(null)" ("(null)"): connection timed out
+[01/Sep/2023:05:58:54 +0000] request from 192.168.101.102 "GET /layout.css HTTP/1.1" ("/boa-serve/www/layout.css"): document open: No such file or directory
+[01/Sep/2023:05:59:05 +0000] request from 192.168.101.102 "GET /8080 HTTP/1.1" ("/boa-serve/www/8080"): document open: No such file or directory
+[01/Sep/2023:05:59:15 +0000] request from 192.168.101.104 "(null)" ("(null)"): connection timed out
+[01/Sep/2023:06:01:29 +0000] request from 192.168.101.104 "(null)" ("(null)"): connection timed out
+[01/Sep/2023:06:03:57 +0000] request from 192.168.101.102 "GET /8080 HTTP/1.1" ("/boa-serve/www/8080"): document open: No such file or directory
+[01/Sep/2023:06:03:58 +0000] request from 192.168.101.102 "GET /8080 HTTP/1.1" ("/boa-serve/www/8080"): document open: No such file or directory
+[01/Sep/2023:06:03:58 +0000] request from 192.168.101.102 "GET /8080 HTTP/1.1" ("/boa-serve/www/8080"): document open: No such file or directory
+[01/Sep/2023:06:03:58 +0000] request from 192.168.101.102 "GET /8080 HTTP/1.1" ("/boa-serve/www/8080"): document open: No such file or directory
+[01/Sep/2023:06:03:58 +0000] request from 192.168.101.102 "GET /8080 HTTP/1.1" ("/boa-serve/www/8080"): document open: No such file or directory
+[01/Sep/2023:06:03:58 +0000] request from 192.168.101.102 "GET /8080 HTTP/1.1" ("/boa-serve/www/8080"): document open: No such file or directory
+[01/Sep/2023:06:03:59 +0000] request from 192.168.101.102 "GET /8080 HTTP/1.1" ("/boa-serve/www/8080"): document open: No such file or directory
+[01/Sep/2023:06:03:59 +0000] request from 192.168.101.102 "GET /8080 HTTP/1.1" ("/boa-serve/www/8080"): document open: No such file or directory
+[01/Sep/2023:06:04:42 +0000] request from 192.168.101.102 "GET /8080 HTTP/1.1" ("/boa-serve/www/8080"): document open: No such file or directory
+[01/Sep/2023:06:04:43 +0000] request from 192.168.101.102 "GET /8080 HTTP/1.1" ("/boa-serve/www/8080"): document open: No such file or directory
+[01/Sep/2023:06:04:43 +0000] request from 192.168.101.102 "GET /8080 HTTP/1.1" ("/boa-serve/www/8080"): document open: No such file or directory
+[01/Sep/2023:06:04:44 +0000] request from 192.168.101.102 "GET /8080 HTTP/1.1" ("/boa-serve/www/8080"): document open: No such file or directory
+[01/Sep/2023:06:06:02 +0000] request from 192.168.101.104 "(null)" ("(null)"): connection timed out
+[01/Sep/2023:06:06:13 +0000] request from 192.168.101.104 "(null)" ("(null)"): connection timed out

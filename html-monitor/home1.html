@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Home1</title>
+    <style type="text/css">
+      @import url("layout.css");
+    </style>
+  </head>
+
+  <body>
+    <div align="center">
+      <table width="1045" border="0">
+        <tr>
+          <th width="250" align="left" scope="col">
+            <div align="center">
+              <a href="cgi-bin/picture1.cgi" target="_blank"
+                ><b
+                  ><h1><font color="#FF0000" size="+6">历史照片</font></h1></b
+                ></a
+              >
+            </div>
+          </th>
+          <th width="248" align="left" scope="col">
+            <div align="center">
+              <a href="video1.html" target="_blank"
+                ><b
+                  ><h1><font color="#FF0000" size="+6">实时监控</font></h1></b
+                ></a
+              >
+            </div>
+          </th>
+          <th width="261" align="left" scope="col">
+            <div align="center">
+              <a href="contrl.html" target="_blank"
+                ><b
+                  ><h1><font color="#FF0000" size="+6">硬件控制</font></h1></b
+                ></a
+              >
+            </div>
+          </th>
+          <th width="268" height="80" colspan="2" align="left" scope="col">
+            <div align="center">
+              <a href="env1.html" target="_blank"
+                ><b
+                  ><h1><font color="#FF0000" size="+6">环境信息</font></h1></b
+                ></a
+              >
+            </div>
+          </th>
+        </tr>
+      </table>
+    </div>
+
+    <div align="center">
+      <table width="992" border="0">
+        <tr>
+          <th colspan="3" background="">
+            <div align="left">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error
+              deleniti est, deserunt sunt aspernatur laboriosam excepturi
+              inventore numquam delectus architecto ducimus soluta ad, qui,
+              nulla dolore corporis hic ratione assumenda. Quam dolorem
+              veritatis impedit minima temporibus. Excepturi, corporis in magnam
+              dolore ut ipsa similique incidunt quia, deleniti cum quos vero a
+              ipsam aspernatur accusamus beatae id maxime veniam, harum quaerat.
+            </div>
+          </th>
+          <th
+            width="330"
+            height="50"
+            align="left"
+            scope="col"
+            background="./images/加油.jpg"
+          >
+            >
+            <div align="center">
+              <iframe scrolling="no" src="" width="330" height="170"></iframe
+              >&nbsp;
+            </div>
+          </th>
+        </tr>
+        <tr>
+          <th colspan="3" rowspan="3" background="">
+            <div align="center">
+              <table width="655" border="0">
+                <form action="cgi-bin/setEnv.cgi" method="get">
+                  <input name="store" type="hidden" value="1" />
+                  <tr>
+                    <th height="55">
+                      <div align="center">
+                        <label
+                          >最高温度:
+                          <input
+                            type="text"
+                            name="temMAX"
+                            id="textfield"
+                            width="50"
+                            maxlength="50"
+                            size="10"
+                            style="height: 10"
+                            height="10"
+                            onFocus="if(this.value=='*'){this.value='';}"
+                            value="50"
+                          />
+                        </label>
+                      </div>
+                    </th>
+                    <th>
+                      <div align="center">
+                        <label
+                          >最高湿度:
+                          <input
+                            type="text"
+                            name="humMAX"
+                            id="textfield3"
+                            width="50"
+                            size="10"
+                            style="height: 10"
+                            height="10"
+                            onFocus="if(this.value=='*'){this.value='';}"
+                            value="50"
+                          />
+                        </label>
+                      </div>
+                    </th>
+                  </tr>
+                  <tr>
+                    <th height="55">
+                      <div align="center">
+                        <label
+                          >最低温度:
+                          <input
+                            type="text"
+                            name="temMIN"
+                            id="textfield2"
+                            width="50"
+                            size="10"
+                            style="height: 10"
+                            height="10"
+                            onFocus="if(this.value=='*'){this.value='';}"
+                            value="5"
+                          />
+                        </label>
+                      </div>
+                    </th>
+                    <th>
+                      <div align="center">
+                        <label
+                          >最低湿度:
+                          <input
+                            type="text"
+                            name="humMIN"
+                            id="textfield4"
+                            width="50"
+                            size="10"
+                            style="height: 10"
+                            height="10"
+                            onFocus="if(this.value=='*'){this.value='';}"
+                            value="10"
+                          />
+                        </label>
+                      </div>
+                    </th>
+                  </tr>
+
+                  <tr>
+                    <th height="50" colspan="3">
+                      <div align="center">
+                        <input
+                          type="reset"
+                          name="button7"
+                          style="background-color: transparent"
+                          id="button7"
+                          value="重置"
+                        />
+                        <input
+                          type="submit"
+                          name="button8"
+                          id="button8"
+                          value="提交"
+                          style="background-color: transparent"
+                        />
+                      </div>
+                    </th>
+                  </tr>
+                </form>
+              </table>
+            </div>
+          </th>
+        </tr>
+      </table>
+    </div>
+  </body>
+</html>

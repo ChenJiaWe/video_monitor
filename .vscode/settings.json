@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "data_global.h": "c",
+    "types.h": "c",
+    "env1.h": "c",
+    "msg.h": "c",
+    "sem.h": "c",
+    "signal.h": "c",
+    "shm.h": "c",
+    "semaphore.h": "c",
+    "global.h": "c",
+    "cgic.h": "c"
+  }
+}
